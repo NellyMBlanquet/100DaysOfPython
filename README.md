@@ -9,7 +9,7 @@ This repository contains the exercises, projects, and examples completed during 
 ### Table of Contents
 
 - [Day 1: Introduction and the print() Function](1.dayOne.py)
-- [Day 1: Ejercicio práctico con el print()](1.dayOne1.py)
+- [Day 1: Practical Exercise with print()](1.dayOne1.py)
 
 ### Day 1: Introduction and the print() Function
 

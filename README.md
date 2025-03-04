@@ -12,6 +12,8 @@ This repository contains the exercises, projects, and examples completed during 
 - [Day 1 Challenge](1.day1challenge.py)
 - [Day 2: User interaction with `input()`](#day-2)
 - [Day 2 Challenge](2.day2challenge.py)
+- [Day 3: User Input and String Combination in Python](#day-3)
+- [Day 2 Challenge](3.day3challenge.py)
 
 ### Day 1
 #### [Introduction and the `print()` Function](1.day1.py)

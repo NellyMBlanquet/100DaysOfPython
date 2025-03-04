@@ -26,6 +26,16 @@ On Day 2, we learned how to create interactive programs by using the `input()` f
 [Day 2 Challenge](2.day2challenge.py)
 
 
+### Day 3 
+#### [User Input and String Combination in Python](3.day3.py)
+On Day 3, we explored how to ask for user input with input() and how to combine different values in a print() statement.
+Key Concepts:
+Using input() to receive user input.
+Combining strings in print() using commas ,.
+
+[Day 3 Challenge](3.day3challenge.py)
+
+
 ### Conclusion
 
 This README will document your progress, serving both as a guide for your learning journey and as a reference for anyone who wants to follow along with the challenge. Remember, consistency is key! Happy coding, and enjoy the journey of learning with Replit's 100 Days of Python Challenge!
